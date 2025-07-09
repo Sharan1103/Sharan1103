@@ -1,4 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Saranya!
+
+🌟 I'm a passionate UI/UX DESIGNER
+💻 I love building user-friendly web apps with HTML, CSS, JavaScript  
+📊 I also create Power BI dashboards and Excel-based data tools  
+🎨 UI/UX | 💡 Problem Solving | 💬 Tamil-English Bilingual
+
+---
+
+## 🔧 Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saranya-subramanian-260795329/)
+
+
+> 💬 “Turning ideas into design & design into reality!”
+
+
 
 <!--
 **Sharan1103/Sharan1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
